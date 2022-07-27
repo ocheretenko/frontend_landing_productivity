@@ -27,5 +27,9 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0"
+  },
+  "dependencies": {
+    "gulp-pug": "^5.0.0",
+    "pug": "^3.0.2"
   }
 }
